@@ -1,6 +1,5 @@
 # ZiraVault - A Token Stake-Based Voting dApp
 
-![ZiraVault Demo](https://i.imgur.com/a95b9c.png) 
 This project is a decentralized voting application (dApp) where users gain voting rights on various proposals by staking (locking) `$ZIRA` tokens in a vault. The project was developed using Solidity, Hardhat, Ethers.js, React, and Vite.
 
 
