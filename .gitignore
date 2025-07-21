@@ -1,0 +1,32 @@
+# --- Genel ---
+# Gizli ortam değişkenleri
+.env
+
+# Log dosyaları
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- Backend (Hardhat) ---
+# Bağımlılıklar
+node_modules/
+
+# Derleme ve test çıktıları
+artifacts/
+cache/
+coverage/
+coverage.json
+typechain-types/
+
+# Hardhat Ignition çıktıları
+ignition/deployments/
+ignition/journal/
+
+
+# --- Frontend (Vite + React) ---
+# Bağımlılıklar
+frontend/node_modules/
+
+# Derleme çıktıları
+frontend/dist/
+frontend/build/
